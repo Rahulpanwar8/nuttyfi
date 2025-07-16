@@ -17,7 +17,7 @@
                "architecture": "esp8266",
                "archiveFileName": "nuttyfi-3.2.0-dev.zip",
                "checksum": "SHA-256:366472757BCE359E7409BF75A3343E79C516B1923FFF43E4765DABC8C120F535",
-               "size": "277909504",
+               "size": "26214400",
                "boards": [
                   {
                      "name": "Nuttyfi"
