@@ -16,8 +16,8 @@
                "version": "1.0.0-dev",
                "architecture": "esp8266",
                "archiveFileName": "nuttyfi-1.0.0-dev.zip",
-               "checksum": "SHA-256:992864E853898E680C6671F88D89BFFC9029E9E7C82E741D99DD5DB4DBCA9100",
-               "size": "39380162", 
+               "checksum": "SHA-256:8D1A750F50F878A4EE42ED56FBD03AD7F434E30229327AE5F96C1E05E55CEDFE",
+               "size": "39376809", 
                "boards": [ 
                   {
                      "name": "Generic ESP8266 Module"
