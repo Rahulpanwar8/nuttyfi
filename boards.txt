@@ -30,7 +30,7 @@ menu.mmu=MMU
 menu.non32xfer=Non-32-Bit Access
 
 ##############################################################
-generic.name=nuttyfi
+generic.name=Generic ESP8266 Module
 generic.build.board=ESP8266_GENERIC
 generic.upload.tool=esptool
 generic.upload.maximum_data_size=81920
@@ -6092,7 +6092,7 @@ nodemcu.menu.iramfloat.yes=allowed in ISR
 nodemcu.menu.iramfloat.yes.build.iramfloat=-DFP_IN_IRAM
 
 ##############################################################
-nodemcuv2.name=NodeMCU 1.0 (ESP-12E Module)
+nodemcuv2.name=NuttyFi 2.0 (ESP-12E Module)
 nodemcuv2.build.board=ESP8266_NODEMCU_ESP12E
 nodemcuv2.build.variant=nodemcu
 nodemcuv2.upload.tool=esptool
