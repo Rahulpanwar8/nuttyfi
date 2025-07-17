@@ -1,27 +1,24 @@
 {
    "packages": [
       {
-         "name": "nuttyfi",
-         "maintainer": "techmcu community (rahul)",
+         "name": "NuttyFi",
+         "maintainer": "SME community",
          "websiteURL": "https://github.com/Rahulpanwar8/nuttyfi",
-         "email": "helprahulpanwar@gmail.com",
+         "email": "schematicslab@gmail.com",
          "help": {
             "online": "https://github.com/Rahulpanwar8/nuttyfi"
          },
          "platforms": [
             {
-               "category": "Nuttyfi",
-               "name": "Nuttyfi ESP8266 Framework",
+               "category": "NuttyFi2.0",
+               "name": "NuttyFi2.0 Framework",
                "url": "https://github.com/Rahulpanwar8/nuttyfi/releases/download/3.2.0-dev/nuttyfi-3.2.0-dev.zip",
-               "version": "3.2.0-dev",
+               "version": "1.0.0-dev",
                "architecture": "esp8266",
-               "archiveFileName": "nuttyfi-3.2.0-dev.zip",
-               "checksum": "SHA-256:9F2C13C1E749EB43FA8B80ECCE21B2B20609D51B9864A475B7507FBF1F94775E",
-               "size": "39380141", 
-               "boards": [
-                  {
-                     "name": "Nuttyfi"
-                  },
+               "archiveFileName": "nuttyfi-1.0.0-dev.zip",
+               "checksum": "SHA-256:992864E853898E680C6671F88D89BFFC9029E9E7C82E741D99DD5DB4DBCA9100",
+               "size": "39380162", 
+               "boards": [ 
                   {
                      "name": "Generic ESP8266 Module"
                   },
@@ -65,7 +62,7 @@
                      "name": "NodeMCU 0.9 (ESP-12 Module)"
                   },
                   {
-                     "name": "NodeMCU 1.0 (ESP-12E Module)"
+                     "name": "NuttyFi 2.0(ESP-12E Module)"
                   },
                   {
                      "name": "Olimex MOD-WIFI-ESP8266(-DEV)"
