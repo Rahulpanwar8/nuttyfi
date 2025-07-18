@@ -30,7 +30,7 @@ menu.mmu=MMU
 menu.non32xfer=Non-32-Bit Access
 
 ##############################################################
-generic.name=Generic ESP8266 Module
+generic.name=nuttyfi
 generic.build.board=ESP8266_GENERIC
 generic.upload.tool=esptool
 generic.upload.maximum_data_size=81920
