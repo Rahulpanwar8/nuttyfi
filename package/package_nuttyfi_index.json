@@ -26,10 +26,10 @@
                      "name": "Generic ESP8285 Module"
                   },
                   {
-                     "name": "Lifely Agrumino Lemon v4"
+                     "name": "Tech Agrumino Lemon v4"
                   },
                   {
-                     "name": "ESPDuino (ESP-13 Module)"
+                     "name": "Tech (ESP-13 Module)"
                   },
                   {
                      "name": "Adafruit Feather HUZZAH ESP8266"
@@ -110,7 +110,7 @@
                      "name": "Arduino"
                   },
                   {
-                     "name": "4D Systems gen4 IoD Range"
+                     "name": "3D Systems gen4 IoD Range"
                   },
                   {
                      "name": "Digistump Oak"
@@ -130,9 +130,7 @@
                   {
                      "name": "Schirmilabs Eduino WiFi"
                   },
-                  {
-                     "name": "ITEAD Sonoff"
-                  },
+                  
                   {
                      "name": "DOIT ESP-Mx DevKit (ESP8285)"
                   }
