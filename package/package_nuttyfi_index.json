@@ -20,48 +20,6 @@
                "size": "37803866", 
                "boards": [ 
                   {
-                     "name": "Generic ESP8266 Module"
-                  },
-                  {
-                     "name": "Generic ESP8285 Module"
-                  },
-                  {
-                     "name": "Lifely Agrumino Lemon v4"
-                  },
-                  {
-                     "name": "ESPDuino (ESP-13 Module)"
-                  },
-                  {
-                     "name": "Adafruit Feather HUZZAH ESP8266"
-                  },
-                  {
-                     "name": "WiFi Kit 8"
-                  },
-                  {
-                     "name": "Invent One"
-                  },
-                  {
-                     "name": "XinaBox CW01"
-                  },
-                  {
-                     "name": "ESPresso Lite 1.0"
-                  },
-                  {
-                     "name": "ESPresso Lite 2.0"
-                  },
-                  {
-                     "name": "Mercury"
-                  },
-                  {
-                     "name": "Phoenix 11.0"
-                  },
-                  {
-                     "name": "Phoenix 2.0"
-                  },
-                  {
-                     "name": "NodeMCU 0.9 (ESP-12 Module)"
-                  },
-                  {
                      "name": "NuttyFi 2.0(ESP-12E Module)"
                   }
                ],
